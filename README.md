@@ -1,16 +1,18 @@
-### Hi there 👋
+# Howdy, I'm Alexis CHERON! 🐱
 
-<!--
-**norech/norech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a french student at [Epitech](https://www.epitech.eu).
 
-Here are some ideas to get you started:
+🧪 I sometimes make public repositories here when I want to experiment things. Feel free to check them out, I surely did some interesting stuff and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 I also have 20+ private owned repos, excluding repos from orgs.
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
+    <div style="display: inline-block;">
+        <img width="450" height="150" img alt="norech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=norech&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
+    </div>
+    <div style="display: inline-block;">
+        <img width="350" height="150" alt="norech's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norech&theme=buefy&hide_border=true&layout=compact&count_private=true&exclude_repo=scaphandre-engine,CraftingPolicy" class="responsive"/>
+    </div>
+</div>
+<br/>
+
