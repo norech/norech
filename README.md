@@ -6,13 +6,9 @@
 
 📖 I also have 20+ private owned repos, excluding repos from orgs.
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
-    <div style="display: inline-block; float: left;">
-        <img width="450" height="150" img alt="norech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=norech&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
-    </div>
-    <div style="display: inline-block; float: left;">
-        <img width="350" height="150" alt="norech's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norech&theme=buefy&hide_border=true&layout=compact&count_private=true&exclude_repo=scaphandre-engine,CraftingPolicy" class="responsive"/>
-    </div>
+<div>
+    <img width="450" height="150" img alt="norech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=norech&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
+    <img width="350" height="150" img alt="norech's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norech&theme=buefy&hide_border=true&layout=compact&count_private=true&exclude_repo=scaphandre-engine,CraftingPolicy" class="responsive"/>
 </div>
 <br/>
 
