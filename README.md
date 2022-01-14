@@ -8,7 +8,7 @@
 
 <div>
     <img width="450" height="150" img alt="norech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=norech&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
-    <img width="350" height="150" img alt="norech's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norech&theme=buefy&hide_border=true&layout=compact&count_private=true&exclude_repo=scaphandre-engine,CraftingPolicy" class="responsive"/>
+    <img width="350" height="150" img alt="norech's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norech&theme=buefy&hide_border=true&layout=compact&count_private=true&exclude_repo=&langs_count=10" class="responsive"/>
 </div>
 <br/>
 
