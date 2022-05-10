@@ -1,6 +1,6 @@
 ## Howdy, I'm Alexis CHERON! 🐱
 
-💻 I'm a french IT student at [Epitech](https://www.epitech.eu).
+💻 I'm a french IT student at [Epitech Technology](https://www.epitech.eu/en/).
 
 🧪 I sometimes make public repositories here when I want to experiment things. Feel free to check them out, I surely did some interesting stuff and experiments.
 
