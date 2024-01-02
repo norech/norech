@@ -1,4 +1,4 @@
-## Howdy, I'm Alexis CHERON! 🐱
+## Howdy, I'm Alexis Cheron! 🐱
 
 💻 I'm a french IT student at [Epitech](https://international.epitech.eu/discover-epitech/).
 
